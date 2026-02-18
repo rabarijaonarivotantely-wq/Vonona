@@ -1,2 +1,2 @@
 # Vonona
-Reseau social from madagascar
+social network from madagascar
